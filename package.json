@@ -1,0 +1,19 @@
+{
+  "name": "@ilyazyablov/ajs-lab",
+  "version": "1.0.0",
+  "description": "Лабораторная работа по теме \"Платформы: браузер vs Node.js\"",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlyaZyablov/ajs-lab.git"
+  },
+  "author": "IlyaZyablov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IlyaZyablov/ajs-lab/issues"
+  },
+  "homepage": "https://github.com/IlyaZyablov/ajs-lab#readme"
+}
